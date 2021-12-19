@@ -39,32 +39,47 @@
         "url": "https://sites.google.com/view/mega-town/home"
     },
     "GuideContent": [
-        {
-            "title": "How to play pico park",
-            "description": "At the beginning of the game, there is a switch in the front. The function of the switch is to alternately connect the left and right roads. In fact, you can pass the level in fewer steps without touching the switch. First, let the little girl enter the yellow light, and switch to let the ghost reach the other yellow light. At the place, purple light and green fog appeared. "
+         {
+            "title": "Wait Huggy Can Bleed",
+            "description": "After one of the scariest chase sequences of any horror game title, players will find themselves backed up on a catwalk, terrified of the rapidly approaching Huggy Wuggy. However, if you can figure out how to beat him, he will fall off the catwalk, hitting several pipes and walkways as he falls into the industrial abyss. "
         },
         {
-            "title": "How much is pico park",
-            "description": "PICO PARK is an online action decryption game, so how much is the price of this game?
-I guess you are not sure about it. The following is an introduction to the price of PICO PARKsteam.
-"PICO PARK" is a local/networked multiplayer cooperative action decryption game with 2 to 8 players. The price of this game on steam is 22 yuan. "
+            "title": "Are Those Things Watching You",
+            "description": "Adding to the permeating sense of paranoia and fear, Poppy Playtime fantastically weaves the environment to validate your fears. Throughout the game, due to the fantastical audio design, it's easy to feel like someone is right behind you at all times (but rarely is this correct). However, as you are required to create a friend (in the machine) to leave, as it is constructing, it can easily be missed that the machine actually follows your every step. "
         },
         {
-            "title": "How to connect pico park",
-            "description": "Its rules are very simple: "get all the keys to achieve the goal", but in all 48 levels there are special designs for multiplayer games. In most levels, different designs will come as you move forward. You need to communicate well with your teammates and think about new ways of cooperation. "
+            "title": "Huggy's Always Watching",
+            "description": "Although players can recognize at the very start that Huggy enjoys stalking the player, throughout the game, there are subtle moments that many might miss on their first playthrough that imply he takes great pleasure in watching your every move. After disappearing at the very start, it would be a fatal mistake to think that Huggy Wuggy has left you for good. "
         },
         {
-            "title": "Game highlights",
-            "description": "1. There are many level tasks, and each kitty has its own tasks that need to be completed.
-2. When necessary, you need to control the cat to stack up to complete some difficult movements.
-3. A park with only cats, and you, as the host, can take them to play. "
+            "title": "The Tapes And The Secrets",
+            "description": "Throughout Poppy Playtime, the actual story is completely shrouded in mystery. Players are thrust into unfamiliar territory that also manages to feel eerily nostalgic in a masterful play on the sense of the uncanny valley. However, if you take your time and explore each environment and room to the fullest, the same tapes that you were introduced to at the start can be found scattered throughout. "
         },
         {
-            "title": "Game Features",
-            "description": "1. Flexible levels.
-When the player gets the key, opens the door, and all players arrive, the level can be cracked. However, each level requires concerted efforts and mutual cooperation to complete.
-2. The battle mode
-cooperation mode is the main content of this game, but when we complete the cooperation mode with our friends, we might as well try the battle mode to compete with friends. "
+            "title": "Huggy's Been Watching you",
+            "description": "The game kicks off to a fantastically understated start. With the first tape you encounter immediately off-setting the atmosphere with an eerie sense of being watched, the owners inform you that they know you're watching the pre-recorded video. There is a great sense of paranoia that never leaves you and only until the latter half of the game does this paranoia become validated. "
+        }
+    ]
+}
+  {
+            "title": "Wait Huggy Can Bleed",
+            "description": "After one of the scariest chase sequences of any horror game title, players will find themselves backed up on a catwalk, terrified of the rapidly approaching Huggy Wuggy. However, if you can figure out how to beat him, he will fall off the catwalk, hitting several pipes and walkways as he falls into the industrial abyss. "
+        },
+        {
+            "title": "Are Those Things Watching You",
+            "description": "Adding to the permeating sense of paranoia and fear, Poppy Playtime fantastically weaves the environment to validate your fears. Throughout the game, due to the fantastical audio design, it's easy to feel like someone is right behind you at all times (but rarely is this correct). However, as you are required to create a friend (in the machine) to leave, as it is constructing, it can easily be missed that the machine actually follows your every step. "
+        },
+        {
+            "title": "Huggy's Always Watching",
+            "description": "Although players can recognize at the very start that Huggy enjoys stalking the player, throughout the game, there are subtle moments that many might miss on their first playthrough that imply he takes great pleasure in watching your every move. After disappearing at the very start, it would be a fatal mistake to think that Huggy Wuggy has left you for good. "
+        },
+        {
+            "title": "The Tapes And The Secrets",
+            "description": "Throughout Poppy Playtime, the actual story is completely shrouded in mystery. Players are thrust into unfamiliar territory that also manages to feel eerily nostalgic in a masterful play on the sense of the uncanny valley. However, if you take your time and explore each environment and room to the fullest, the same tapes that you were introduced to at the start can be found scattered throughout. "
+        },
+        {
+            "title": "Huggy's Been Watching you",
+            "description": "The game kicks off to a fantastically understated start. With the first tape you encounter immediately off-setting the atmosphere with an eerie sense of being watched, the owners inform you that they know you're watching the pre-recorded video. There is a great sense of paranoia that never leaves you and only until the latter half of the game does this paranoia become validated. "
         }
     ]
 }
